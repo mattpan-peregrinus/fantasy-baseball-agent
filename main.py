@@ -9,11 +9,9 @@ def main():
     print("Connecting to ESPN Fantasy API...")
     
     try:
-        # Connect to league
         league = League(league_id=LEAGUE_ID, year=YEAR, espn_s2=ESPN_S2, swid=SWID)
         print(f"Connected successfully to: {league.settings.name}")
         
-        # Get your team
         my_team = league.teams[TEAM_ID-1]  
         print(f"Analyzing team: {my_team.team_name}")
         
@@ -34,7 +32,7 @@ def main():
             elif choice == '3':
                 trade_recommendations(league, my_team)
             elif choice == '4':
-                print("Goodbye!")
+                print("Goodbye, may you not be the Rockies!")
                 break
             else:
                 print("Invalid choice, please try again.")

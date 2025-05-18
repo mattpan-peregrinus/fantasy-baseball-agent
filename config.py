@@ -1,8 +1,8 @@
-LEAGUE_ID = ## replace with own
-YEAR = ## replace with own
-ESPN_S2 = ## replace with own
-SWID = ## replace with own
-TEAM_ID = ## replace with own
+LEAGUE_ID = 1459030737 
+YEAR = 2025
+ESPN_S2 = 'AEBSxJEeXnEOPFiLgHOi1Qj7AW4p3OW7zddu00GmI6zUrmbo%2BoWs6WIJjVvm5LZaoE3cQz%2BB9DsyNtBmZHpgCBMxHtiSeRzxs7OraeT2J90Vnv43hCF%2F1QqC09ubkDxnNwJfldP3AEEdYczdY2tBpQbtottfsgUGxRo5azYPR1KKXZ1ISsD%2B7TVao3JSXEYmGaDKXk7e4LOAcd77d9s%2FsUlGo9IJqdI78oEepu%2FFhFK2%2B3zwC%2BFUIcY1znMgq4PAqmlBMB2nywDEpNwnkmYHpq3NgNnuS%2FoUF7eBHxrLPUVc%2FQ%3D%3D'
+SWID = '{EFA5077D-2EBF-487E-8BAF-F7A2A5EAC2D8}'  
+TEAM_ID = 3  
 
 # Scoring categories
 BATTING_CATEGORIES = ['R', 'HR', 'RBI', 'SB', 'AVG', 'OBP']
