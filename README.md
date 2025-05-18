@@ -1,4 +1,4 @@
-# ESPN Fantasy Baseball Analyzer
+# ESPN Fantasy Baseball Agent
 An advanced command-line tool to improve your ESPN fantasy baseball team and avoid becoming the Colorado Rockies of your league.
 
 ## 📊 Features
