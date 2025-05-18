@@ -1,5 +1,5 @@
 # ESPN Fantasy Baseball Analyzer
-An advanced command-line tool to analyze your ESPN fantasy baseball team, find waiver wire recommendations, and identify trade targets based on your team's strengths and weaknesses.
+An advanced command-line tool to improve your ESPN fantasy baseball team and avoid becoming the Colorado Rockies of your league.
 
 ## 📊 Features
 - **Team Analysis**: Evaluate your team's strengths and weaknesses based on category performance
