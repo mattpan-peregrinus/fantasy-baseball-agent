@@ -16,12 +16,14 @@ An advanced command-line tool to improve your ESPN fantasy baseball team and avo
 
 ## 📥 Installation
 1. Clone this repository:
-   ```git clone https://github.com/yourusername/fantasy-baseball-analyzer.git```
+   ```bash
+   git clone https://github.com/yourusername/fantasy-baseball-analyzer.git
 
-2. Install the required packages:
-   ```pip install espn-api pandas numpy```
+3. Install the required packages:
+   ```bash
+   pip install espn-api pandas numpy
 
-3. Configure your league settings:
+5. Configure your league settings:
    - Open config.py and add your league ID, ESPN_S2 cookie, SWID cookie, and team ID.
    - Verify the scoring categories match your league's settings.
 
