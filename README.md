@@ -11,8 +11,8 @@ An advanced command-line tool to improve your ESPN fantasy baseball team and avo
 
 ## 🚀 Prerequisites
 - Python 3.7 or higher
-- ESPN Fantasy Baseball league (public or private)
-- League credentials (for private leagues)
+- ESPN Fantasy Baseball league (Rotisserie scoring format)
+- League credentials 
 
 ## 📥 Installation
 1. Clone this repository:
@@ -66,6 +66,3 @@ If you encounter issues:
 
 ## 🙏 Acknowledgments
 This tool uses the [espn-api](https://github.com/cwendt94/espn-api) package for ESPN Fantasy API integration.
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
